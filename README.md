@@ -1,6 +1,6 @@
 # Welcome 👋
 - Neil Juanillo 
-- [Website]([neilazureportfolio.azurewebsites.net/](https://neilazureportfolio.azurewebsites.net/)) 👀
+- [Website](https://neilazureportfolio.azurewebsites.net/) 👀
 - [Neil Juanillo Resume 2022](https://github.com/ajax12233512/ajax12233512/files/8458286/Neil.Juanillo.2022.Modern.pdf)
 
 - neilj1213@outlook.com
