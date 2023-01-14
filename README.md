@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # My Name is Neil
-Currently a Full Time Grocery Clerk at an Idaho based midsize retail grocery store. 
+Currently a Full Time Grocery Clerk at an Arkansas based midsize retail grocery store. 
 
 # Welcome
 Expert administrator and user of Microsft Office. 
