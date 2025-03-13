@@ -1,33 +1,56 @@
-# Welcome 👋
-- Neil Juanillo 
-- [Website](https://ajax12233512.github.io/EE_WEBSITE/) 👀
-- neilj1213@outlook.com
+# Welcome to My GitHub 👋
 
-<!---
-ajax12233512/ajax12233512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+Hi there! I'm **Neil Juanillo**, a passionate programmer with a love for building web applications. Currently, I work full-time as a Grocery Clerk at an Arkansas-based retail grocery store, but I am working towards a career in the tech industry. Feel free to connect if you're also interested in technology or programming! 
 
-# My Name is Neil
-Currently a Full Time Grocery Clerk at an Arkansas based midsize retail grocery store. 
+### 📱 Contact Info
+- Email: [neilj1213@outlook.com](mailto:neilj1213@outlook.com)
+- Website: [neilj1213.github.io](https://ajax12233512.github.io/EE_WEBSITE/)
 
-# Welcome
-Expert administrator and user of Microsft Office. 
-Passionate programmer specializing in online and cloud based applications.
-Creative thinker and problem solver. 
-
-# Description
-I make websites for fun. I like to make UIs especially from scratch and share them on my blog coming soon. I am currenlty looking for a career in the technology industry and am willing to connect with anyone else is too! Checkout my website too! Thanks and love to all!
 ---
-## Skills
-1. Javascript (ES5 ES6)
-2. Node.js
-3. React.js
-4. Next.js
-5. MongoDB
-6. Express.js
-7. OAuth Verification
-8. SQL
-9. Three.js
-10. P5.js
 
+## 👨‍💻 About Me
+- Experienced in **Microsoft Office** administration.
+- Passionate about programming, especially web and cloud-based applications.
+- Creative thinker, problem solver, and a fan of building **UIs from scratch**.
+- Currently working on a **blog** to share my UI creations.
+
+---
+
+## 🔧 My Tech Stack
+I love working with a variety of tools and technologies to bring ideas to life:
+
+- **Languages**:  
+  - JavaScript (ES5, ES6)  
+  - SQL  
+  - HTML/CSS  
+
+- **Frameworks & Libraries**:  
+  - Node.js  
+  - React.js  
+  - Next.js  
+  - Express.js  
+  - Three.js  
+  - P5.js  
+
+- **Databases**:  
+  - MongoDB  
+
+- **Authentication**:  
+  - OAuth Verification  
+
+---
+
+## 🚀 What I'm Currently Working On
+- Developing **personal projects** and **UI designs**.
+- Enhancing my **JavaScript** skills with modern libraries and frameworks.
+- Building a **blog** to showcase UI components, tutorials, and tech content.
+  
+---
+
+## Let's Connect! 🤝
+If you're working in tech or just want to chat, feel free to reach out. I'm always open to new ideas, collaborations, and learning opportunities. 💻🚀
+
+---
+
+Thanks for visiting! ❤️
